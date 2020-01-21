@@ -1,2 +1,0 @@
-# iknowright
-giberish codes
