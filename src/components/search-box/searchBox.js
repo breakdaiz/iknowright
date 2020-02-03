@@ -4,7 +4,7 @@ import './searchBox.css';
 const searchBox = ({ placeholder, onChangeHandler }) => (
   <div>
     <input
-      type="search" 
+      type="search"
       className="search"
       placeholder={placeholder}
       onChange={onChangeHandler}
