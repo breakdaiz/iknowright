@@ -1,3 +1,9 @@
+/* eslint-disable no-param-reassign */
+/* eslint-disable operator-linebreak */
+/* eslint-disable comma-dangle */
+/* eslint-disable no-use-before-define */
+/* eslint-disable arrow-parens */
+/* eslint-disable no-console */
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
